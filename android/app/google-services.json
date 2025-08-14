@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "989795104626",
+    "firebase_url": "https://hire-a-bodyguard-default-rtdb.firebaseio.com",
+    "project_id": "hire-a-bodyguard",
+    "storage_bucket": "hire-a-bodyguard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989795104626:android:133a2673dec91016b00feb",
+        "android_client_info": {
+          "package_name": "com.hireabodyguard.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989795104626-gvntf74nldljf6fafakic704ovnpjodr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3A40CI7GRtJddxj6IE_wVob-mqbE9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989795104626-gvntf74nldljf6fafakic704ovnpjodr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989795104626-8espodm8eq60u92ftv4f3fea5j74si0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hireabodyguard.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989795104626:android:4545637ace08c73db00feb",
+        "android_client_info": {
+          "package_name": "com.hireabodyguard.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989795104626-gvntf74nldljf6fafakic704ovnpjodr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3A40CI7GRtJddxj6IE_wVob-mqbE9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989795104626-gvntf74nldljf6fafakic704ovnpjodr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989795104626-8espodm8eq60u92ftv4f3fea5j74si0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hireabodyguard.guard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

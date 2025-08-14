@@ -1,0 +1,2 @@
+/Users/dish/Downloads/HaB/HaB-Protect/android/app/.cxx/RelWithDebInfo/435q2yb5/x86/CMakeFiles/edit_cache.dir
+/Users/dish/Downloads/HaB/HaB-Protect/android/app/.cxx/RelWithDebInfo/435q2yb5/x86/CMakeFiles/rebuild_cache.dir
